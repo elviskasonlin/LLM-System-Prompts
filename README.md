@@ -32,10 +32,13 @@ Advanced frameworks and templates intended for prompt optimization, iterative de
 
 ## ⚖️ LICENSES
 
+MIT License
+Copyright (c) 2026 Elvis Kason Lin
+
 <details>
 <summary>general_purpose/concise_caveman.md</summary>
 
-This file is a derivative of JuliusBrussee/caveman
+This file is a derivative of JuliusBrussee/caveman. Original license below:
 ---
 MIT License
 
@@ -66,7 +69,7 @@ Modifications Copyright: Please refer to the LICENSE file in this repository
 <details>
 <summary>humanizer/humanizer_*.md</summary>
 
-This file is a derivative of blader/humanizer
+This file is a derivative of blader/humanizer. Original license below:
 ---
 MIT License
 
