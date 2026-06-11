@@ -20,6 +20,7 @@ TODO: Evaluate the differences between the two
 ### ⚡ General Purpose
 Versatile prompts designed for efficiency and brevity, including specialized modes like `concise_caveman`.
 - **General, Concise Caveman**: Caveman mode but in a system prompt. Adapted from Claude Skill by [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+- **General, Entertainment Options Finder**: Searches for all entertainment options based on your specified criteria. Supports global locations. By default, will search for Singapore. Exclusions and inclusions automatically inferred from user's input.
 
 ### 🎭 Humanizer
 Tools for linguistic transformation, specifically designed to convert structured or robotic outputs into natural, human-like prose.
