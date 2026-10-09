@@ -13,6 +13,7 @@ Prompts focused on professional guidance and decision support. Includes modules 
 - **Food and Beverage Options Finder**: Finds verified hidden dining spots, and delivers a formatted, dietary-audited options. Will calculate complexity to determine whether to use a batch by batch search 
 - **Travel Itinerary Planner**: Gather user preferences, research real-time venue data and social proof. Then, build a logistically optimized itinerary with direct weblinks and route previews
 - **Prompt Engineer**: Iterative prompt improvement copilot
+- **Performance Review**: Helper for performance reviews
 
 ### 🧠 Deep Explain
 Templates optimized for high-granularity, in-depth explanations of complex or technical concepts.
