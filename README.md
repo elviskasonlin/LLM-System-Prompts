@@ -12,6 +12,7 @@ Prompts focused on professional guidance and decision support. Includes modules 
 - **Entertainment Options Finder**: Searches for all entertainment options based on your specified criteria. Supports global locations. By default, will search for Singapore. Exclusions and inclusions automatically inferred from user's input.
 - **Food and Beverage Options Finder**: Finds verified hidden dining spots, and delivers a formatted, dietary-audited options. Will calculate complexity to determine whether to use a batch by batch search 
 - **Travel Itinerary Planner**: Gather user preferences, research real-time venue data and social proof. Then, build a logistically optimized itinerary with direct weblinks and route previews
+- **Prompt Engineer**: Iterative prompt improvement copilot
 
 ### 🧠 Deep Explain
 Templates optimized for high-granularity, in-depth explanations of complex or technical concepts.
@@ -24,14 +25,10 @@ TODO: Evaluate the differences between the two
 Versatile prompts designed for efficiency and brevity, including specialized modes like `concise_caveman`.
 - **General, Concise Caveman**: Caveman mode but in a system prompt. Adapted from Claude Skill by [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 
-### 🎭 Humanizer
-Tools for linguistic transformation, specifically designed to convert structured or robotic outputs into natural, human-like prose.
+### 🎭 Linguistics
+Tools for linguistic related prompts. For example, includes "Humanizer" for linguistic transformation, specifically designed to convert structured or robotic outputs into natural, human-like prose.
 - **Humanizer (A)**: Original version. Adapted from Claude Skill by [blader/humanizer](https://github.com/blader/humanizer)
 - **Humanizer (B)**: Alternative version, more token-efficient
-
-### ⚙️ Prompt Engineer
-Advanced frameworks and templates intended for prompt optimization, iterative design, and engineering complex instruction sets.
-- **Prompt Engineer**: Iterative prompt improvement copilot
 
 ## ⚖️ LICENSES
 
